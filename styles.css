@@ -313,14 +313,14 @@ form {
 	padding: 8.5px 17.5px;
 	margin-right: 2px;
 }
-marquee {
+/* marquee {
 	position: absolute;
 	box-shadow: 1px 1px 1px 1px #aaaaaa inset;
     border: 1px solid #BFBFBF;
     width: calc(100% - 100px);
     padding-top: 7.5px;
     padding-bottom: 7.5px;
-}
+} */
 .first{
 	float: left;
 	margin-bottom: 8px;
@@ -407,12 +407,6 @@ marquee {
 }
 .bhp{
 	color: #336699;
-}
-.image-below-border{
-	float: left;
-	border: 1px solid #e4e4e4;
-	border-radius: 10px;
-	width: 100%;
 }
 .under-image{
 	margin-top: 9px;
@@ -1146,15 +1140,6 @@ background-size: 60px;
 	margin-right: 20px;
 	
 }
-.p-under-footer{
-	margin-bottom: 8px;
-}
-.colored-p-under-footer{
-	color:#666666;
-	font-family: arial;
-	font-size: 11px;
-	
-}
 .right-paragraph-in-footer{
 	float: right;
 }
@@ -1172,9 +1157,6 @@ background-size: 60px;
 .email-footer{
 	color: #f17f02 !important;
 	font-size: 11px;
-}
-.arial{
-	font-family: Arial !important;
 }
 .copy-right{
 	float: left;
